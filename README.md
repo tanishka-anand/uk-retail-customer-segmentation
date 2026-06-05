@@ -128,16 +128,16 @@ genuine and handled with documented business justifications.
 ## 📈 Dashboard Preview
 
 ### Page 1 — Executive Overview
-![Executive Overview](dashboard/page1_executive_overview.png)
+![Executive Overview](dashboard/pageno1_executive_overview.png)
 
 ### Page 2 — Segment Behavioral Profiles
-![Segment Profiles](dashboard/page2_segment_profiles.png)
+![Segment Profiles](dashboard/pageno2_segment_profiles.png)
 
 ### Page 3 — Cohort Retention Analysis
-![Cohort Retention](dashboard/page3_cohort_retention.png)
+![Cohort Retention](dashboard/pageno3_cohort_retention.png)
 
 ### Page 4 — Business Recommendations
-![Recommendations](dashboard/page4_recommendations.png)
+![Recommendations](dashboard/pageno4_recommendations.png)
 
 > 📥 Download Interactive Dashboard: 
 > [customer_segmentation_dashboard.pbix](dashboard/customer_segmentation_dashboard.pbix)
